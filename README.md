@@ -1,2 +1,2 @@
 # POWERBI-PROJECT
-powerBI project on data analytics with visual report 
+powerBI project on data analytics with interactive visual report with dataset 
